@@ -1,0 +1,20 @@
+{
+  "name": "codember-js",
+  "version": "1.0.0",
+  "description": "Solutions for Codember challenges from Midudev developed in JavaScript",
+  "scripts": {
+
+  },
+  "eslintConfig": {
+    "extends": ["standard"]
+  },
+  "author": "alessrdrgz",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
